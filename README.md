@@ -1,2 +1,2 @@
 # envie-github
-proyecto prueba
+proyecto prueba curso
